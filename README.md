@@ -18,7 +18,7 @@
 
 ### Descripcion 
 
-- Una placa arduina conectada a dos display de siete segmentos y a dos botones y un interruptor deslizante (switch ) de dos posiciones
+- Una placa arduina conectada a dos display de siete segmentos y a dos botones , un interruptor deslizante (switch ) de dos posiciones y  motor de aficionado al sistema,
   dependiendo de la posicion del interruptor podemos mostrar un contador del 0 al 99 o numeros primos del 0 al 99.
 
  ## Función principal 
