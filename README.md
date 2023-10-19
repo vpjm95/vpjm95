@@ -18,8 +18,7 @@
 
 ### Descripcion 
 
-- Una placa arduina conectada a dos display de siete segmentos y a dos botones , un interruptor deslizante (switch ) de dos posiciones y  motor de aficionado al sistema,
-  dependiendo de la posicion del interruptor podemos mostrar un contador del 0 al 99 o numeros primos del 0 al 99.
+- Una placa arduina conectada a dos display de siete segmentos y a dos botones , un interruptor deslizante (switch ) de dos posiciones dependiendo de la posicion del interruptor podemos mostrar un contador del 0 al 99 o numeros primos del 0 al 99. y agregamos un motor de aficionado este puede convertir la energia electrica en energia mecanica dando uso de muchas maneras.
 
  ## Función principal 
  A 10 ,B 11, C 5 , D 6 ,E 7 ,G 8, F 9 , UNIDAD A4, DECENA A5, OFF 0, SUM_BUTTON 4,SUBS_BUTTON 3 ,RESET_BUTTON 2 , SWITCH 2: son  #define que utilizamos para agregar los leds, asociandolo a pines de la placa arduino.
